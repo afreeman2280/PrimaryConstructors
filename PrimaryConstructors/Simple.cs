@@ -26,7 +26,7 @@ public class SimpleBefore
     {
         return _fname +" " + _lName;
     }
-    // adding text
+   
 }
 // fname and lname are parameters of the constructor
 // available for the entire class and Become mutable
