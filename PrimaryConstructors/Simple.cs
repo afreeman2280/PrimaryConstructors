@@ -22,10 +22,7 @@ public class SimpleBefore
         _fname = fname;
         _lName = lname;
     }
-    public string GetName()
-    {
-        return _fname +" " + _lName;
-    }
+ 
    
 }
 // fname and lname are parameters of the constructor
