@@ -28,7 +28,8 @@ public class SimpleBefore
     }
    
 }
-
+// fname and lname are parameters of the constructor
+// available for the entire class and Become mutable
 
 public class SimpleAfter(string fname,string lname)
 {
